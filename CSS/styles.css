@@ -221,7 +221,7 @@ body {
   display: flex;
   justify-content: center;
   margin: 30px auto;
-  max-width: 75%;
+  max-width: 50%;
 }
 
 .phone-link {
